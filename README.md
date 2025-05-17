@@ -49,7 +49,7 @@ DATABASE_URL=
 GEMINI_API_KEY=
 ```
 
-## Getting Started
+## 🧩 Getting Started
 
 1. Clone the repository
 
