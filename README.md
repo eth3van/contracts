@@ -52,6 +52,12 @@ GEMINI_API_KEY=
 ## Getting Started
 
 1. Clone the repository
+
+```shell
+git clone https://github.com/DevGoyalG/ShrinkURLs.git
+cd ShrinkURLs
+```
+
 2. Install dependencies:
 
 ```shell
