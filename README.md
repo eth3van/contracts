@@ -5,20 +5,18 @@
 
 <h1 align="center">💼 JobGeniusAI – AI Career Coach 🤖</h1>
 
-![Demo App](https://github.com/DevGoyalG/JobGeniusAI/blob/main/JobGeniusAI.png)
-
 ## 🌟 Highlights:
 
-- 🚀 Tech stack: Next.js, Vite, Tailwind CSS & Shadcn UI  
-- 🧠 LLM Integration (Gemini AI) for smart recommendations  
-- 📄 AI Resume & Cover Letter Builder  
-- 🎯 Personalized Interview Preparation  
-- 📊 Industry Insights Module  
-- 🔒 Authentication & Authorization (Clerk)  
-- 💾 Database Management (Neon PostgreSQL)  
-- 💻 Modern, Responsive UI Design  
-- 🎭 Client & Server Components with seamless integration  
-- 🌐 Deployed for high performance on Vercel  
+- 🚀 Tech stack: Next.js, Vite, Tailwind CSS & Shadcn UI
+- 🧠 LLM Integration (Gemini AI) for smart recommendations
+- 📄 AI Resume & Cover Letter Builder
+- 🎯 Personalized Interview Preparation
+- 📊 Industry Insights Module
+- 🔒 Authentication & Authorization (Clerk)
+- 💾 Database Management (Neon PostgreSQL)
+- 💻 Modern, Responsive UI Design
+- 🎭 Client & Server Components with seamless integration
+- 🌐 Deployed for high performance on Vercel
 
 ## ✨ Features
 
@@ -54,8 +52,8 @@ GEMINI_API_KEY=
 1. Clone the repository
 
 ```shell
-git clone https://github.com/DevGoyalG/ShrinkURLs.git
-cd ShrinkURLs
+git clone https://github.com/x-astro/job-search-genius-ai.git
+cd job-search-genius-ai
 ```
 
 2. Install dependencies:
@@ -86,12 +84,12 @@ Or connect your GitHub repository to Vercel for automatic deployments.
 
 ## 🚀 Technologies Used
 
-- **Next.js & Vite**: Fast, modern frameworks for frontend and full-stack development  
-- **Tailwind CSS & Shadcn UI**: Utility-first styling and pre-built UI components  
-- **Clerk**: Secure authentication and user management system  
-- **Neon**: Scalable PostgreSQL database solution with serverless support  
-- **Gemini AI**: Google’s LLM for generating smart, context-aware career guidance  
-- **Vercel**: Deployment platform ensuring high performance and global scalability  
+- **Next.js & Vite**: Fast, modern frameworks for frontend and full-stack development
+- **Tailwind CSS & Shadcn UI**: Utility-first styling and pre-built UI components
+- **Clerk**: Secure authentication and user management system
+- **Neon**: Scalable PostgreSQL database solution with serverless support
+- **Gemini AI**: Google’s LLM for generating smart, context-aware career guidance
+- **Vercel**: Deployment platform ensuring high performance and global scalability
 
 ## 📚 Learn More
 
@@ -103,26 +101,6 @@ To learn more about the technologies used in this project:
 - [Shadcn UI Documentation](https://ui.shadcn.com/docs)
 - [Gemini API Documentation](https://ai.google.dev/gemini-api)
 - [Neon Documentation](https://neon.tech/docs)
-
-## 🤝 Connect with Me
-
-<a href="https://github.com/DevGoyalG" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/devgoyalg/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/dev_goyal_g/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-&nbsp;
-<a href="https://x.com/dev_goyal_g" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-
----
 
 <p align="center">
   <b>Thank you for visiting! Happy Learning 🚀</b>
